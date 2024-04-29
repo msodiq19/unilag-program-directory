@@ -51,4 +51,4 @@ Feel free to raise an issue on Github if you find a bug or have a feature reques
 
 ## Contributing
 
-If you want to contribute to this repository, please refer to the [contributing doc](https://github.com/msodiq19/unilag-program-directory/CONTRIBUTING.md).
+If you want to contribute to this repository, please refer to the [contributing doc](https://github.com/msodiq19/unilag-program-directory/blob/main/CONTRIBUTING.md).
