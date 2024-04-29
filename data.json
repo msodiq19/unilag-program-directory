@@ -1,0 +1,458 @@
+[
+    {
+        "facultyName": "Faculty of Arts",
+        "facultyCode": "FAT",
+        "departments": [
+            {
+                "departmentName": "Department of English",
+                "departmentCode": "ENG",
+                "courses": [
+                    {
+                        "courseName": "English Language",
+                        "courseCode": "ENG101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "English Literature",
+                        "courseCode": "ENG102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of History",
+                "departmentCode": "HIS",
+                "courses": [
+                    {
+                        "courseName": "History of Nigeria",
+                        "courseCode": "HIS101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "History of Africa",
+                        "courseCode": "HIS102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Basic Medical Sciences",
+        "facultyCode": "FMS",
+        "departments": [
+            {
+                "departmentName": "Department of Biochemistry",
+                "departmentCode": "BCH",
+                "courses": [
+                    {
+                        "courseName": "Biochemistry",
+                        "courseCode": "BCH101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Molecular Biology",
+                        "courseCode": "BCH102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Pharmacology",
+                "departmentCode": "PHC",
+                "courses": [
+                    {
+                        "courseName": "Pharmacology",
+                        "courseCode": "PHC101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Pharmacognosy",
+                        "courseCode": "PHC102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Clinical Sciences",
+        "facultyCode": "FCS",
+        "departments": [
+            {
+                "departmentName": "Department of Anatomy",
+                "departmentCode": "ANT",
+                "courses": [
+                    {
+                        "courseName": "Human Anatomy",
+                        "courseCode": "ANT101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Comparative Anatomy",
+                        "courseCode": "ANT102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Physiology",
+                "departmentCode": "PHY",
+                "courses": [
+                    {
+                        "courseName": "Human Physiology",
+                        "courseCode": "PHY101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Comparative Physiology",
+                        "courseCode": "PHY102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Dental Sciences",
+        "facultyCode": "FDS",
+        "departments": [
+            {
+                "departmentName": "Department of Oral Surgery",
+                "departmentCode": "ORS",
+                "courses": [
+                    {
+                        "courseName": "Oral Surgery",
+                        "courseCode": "ORS101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Oral Pathology",
+                        "courseCode": "ORS102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Oral Medicine",
+                "departmentCode": "ORM",
+                "courses": [
+                    {
+                        "courseName": "Oral Medicine",
+                        "courseCode": "ORM101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Oral Radiology",
+                        "courseCode": "ORM102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Education",
+        "facultyCode": "FED",
+        "departments": [
+            {
+                "departmentName": "Department of Educational Foundations",
+                "departmentCode": "EDF",
+                "courses": [
+                    {
+                        "courseName": "Philosophy of Education",
+                        "courseCode": "EDF101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Sociology of Education",
+                        "courseCode": "EDF102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Educational Psychology",
+                "departmentCode": "EDP",
+                "courses": [
+                    {
+                        "courseName": "Child Psychology",
+                        "courseCode": "EDP101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Adolescent Psychology",
+                        "courseCode": "EDP102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Engineering",
+        "facultyCode": "FEN",
+        "departments": [
+            {
+                "departmentName": "Department of Civil Engineering",
+                "departmentCode": "CVE",
+                "courses": [
+                    {
+                        "courseName": "Civil Engineering",
+                        "courseCode": "CVE101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Structural Engineering",
+                        "courseCode": "CVE102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Electrical Engineering",
+                "departmentCode": "EEE",
+                "courses": [
+                    {
+                        "courseName": "Electrical Engineering",
+                        "courseCode": "EEE101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Electronics",
+                        "courseCode": "EEE102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Environmental Sciences",
+        "facultyCode": "FES",
+        "departments": [
+            {
+                "departmentName": "Department of Architecture",
+                "departmentCode": "ARC",
+                "courses": [
+                    {
+                        "courseName": "Architectural Design",
+                        "courseCode": "ARC101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Architectural History",
+                        "courseCode": "ARC102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Urban and Regional Planning",
+                "departmentCode": "URP",
+                "courses": [
+                    {
+                        "courseName": "Urban Planning",
+                        "courseCode": "URP101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Regional Planning",
+                        "courseCode": "URP102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Law",
+        "facultyCode": "FLW",
+        "departments": [
+            {
+                "departmentName": "Department of Public Law",
+                "departmentCode": "PLW",
+                "courses": [
+                    {
+                        "courseName": "Constitutional Law",
+                        "courseCode": "PLW101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Criminal Law",
+                        "courseCode": "PLW102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Private Law",
+                "departmentCode": "PLW",
+                "courses": [
+                    {
+                        "courseName": "Law of Contract",
+                        "courseCode": "PLW101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Law of Tort",
+                        "courseCode": "PLW102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Management Sciences",
+        "facultyCode": "FMS",
+        "departments": [
+            {
+                "departmentName": "Department of Accounting",
+                "departmentCode": "ACC",
+                "courses": [
+                    {
+                        "courseName": "Financial Accounting",
+                        "courseCode": "ACC101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Management Accounting",
+                        "courseCode": "ACC102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Business Administration",
+                "departmentCode": "BAM",
+                "courses": [
+                    {
+                        "courseName": "Business Management",
+                        "courseCode": "BAM101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Human Resource Management",
+                        "courseCode": "BAM102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Pharmacy",
+        "facultyCode": "FPH",
+        "departments": [
+            {
+                "departmentName": "Department of Pharmaceutical Chemistry",
+                "departmentCode": "PCH",
+                "courses": [
+                    {
+                        "courseName": "Pharmaceutical Chemistry",
+                        "courseCode": "PCH101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Pharmaceutical Analysis",
+                        "courseCode": "PCH102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Pharmacognosy",
+                "departmentCode": "PGY",
+                "courses": [
+                    {
+                        "courseName": "Pharmacognosy",
+                        "courseCode": "PGY101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Pharmacology",
+                        "courseCode": "PGY102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Science",
+        "facultyCode": "FSC",
+        "departments": [
+            {
+                "departmentName": "Department of Computer Science",
+                "departmentCode": "CSC",
+                "courses": [
+                    {
+                        "courseName": "Computer Science",
+                        "courseCode": "CSC101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Computer Programming",
+                        "courseCode": "CSC102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Mathematics",
+                "departmentCode": "MAT",
+                "courses": [
+                    {
+                        "courseName": "Calculus",
+                        "courseCode": "MAT101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Algebra",
+                        "courseCode": "MAT102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "facultyName": "Faculty of Social Sciences",
+        "facultyCode": "FSS",
+        "departments": [
+            {
+                "departmentName": "Department of Economics",
+                "departmentCode": "ECO",
+                "courses": [
+                    {
+                        "courseName": "Microeconomics",
+                        "courseCode": "ECO101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Macroeconomics",
+                        "courseCode": "ECO102",
+                        "courseUnit": 3
+                    }
+                ]
+            },
+            {
+                "departmentName": "Department of Sociology",
+                "departmentCode": "SOC",
+                "courses": [
+                    {
+                        "courseName": "Sociology of Education",
+                        "courseCode": "SOC101",
+                        "courseUnit": 3
+                    },
+                    {
+                        "courseName": "Sociology of Religion",
+                        "courseCode": "SOC102",
+                        "courseUnit": 3
+                    }
+                ]
+            }
+        ]
+    }
+]
