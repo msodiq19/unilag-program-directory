@@ -1,0 +1,26 @@
+{
+  "name": "unilag-program-directory",
+  "version": "1.0.0",
+  "description": "List of unilag programs, courses and course codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msodiq19/unilag-program-directory.git"
+  },
+  "keywords": [
+    "programs",
+    "school",
+    "data",
+    "unilag",
+    "courses"
+  ],
+  "author": "Sodiq Muhammed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msodiq19/unilag-program-directory/issues"
+  },
+  "homepage": "https://github.com/msodiq19/unilag-program-directory#readme"
+}
